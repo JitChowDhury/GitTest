@@ -2,3 +2,5 @@ this is file 2 for gitcourse
 addinng more content in file
 
 addinng another marketing sction
+
+another marketing section in file2
