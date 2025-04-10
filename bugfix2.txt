@@ -1,3 +1,5 @@
 this is minor bug fix
 another minor bug fix
+<<<<<<< HEAD
 this is another minor bug fix from master
+
