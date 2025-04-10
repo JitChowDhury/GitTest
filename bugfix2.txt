@@ -1,2 +1,6 @@
 this is minor bug fix
 another minor bug fix
+
+
+
+fixed a bug from minorbugfix branch
