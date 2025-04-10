@@ -5,4 +5,4 @@ fixed another bug
 
 
 RebaseFIx message for rebaseBrunch
-'
+another fix message for purple mode
